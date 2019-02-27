@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://anagainaru.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Workshop on Converged Computing Infrastructure'
+description: ''
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/images/logo.png"
 
 # Pagination
 paginate: 5
@@ -34,8 +34,8 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  About: /about/
-  Blog: /blog/
+  Organization: /about/
+  Submission: /blog/
 
 # Footer nav
 navigation_footer:
@@ -46,7 +46,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "My ideas"
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
