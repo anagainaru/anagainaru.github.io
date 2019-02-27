@@ -14,7 +14,7 @@ feature_image: "../images/3.jpg"
 
 * <small>Bogdan Nicolae - Argonne National Labs</small>
 * <small>Alexandru Uta - Vrije Universiteit Amsterdam</small>
-* <small>arlos Costa - IBM Research</small>
+* <small>Carlos Costa - IBM Research</small>
 * <small>Ana Gainaru - Vanderbilt University</small>
 
 ##### Steering committee
