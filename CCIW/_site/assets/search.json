@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "CCIW'19",
+    "excerpt": "\n",
+    "content": "Held in conjunction with The International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC) 2019, Phoenix, AZ, June 22-29\n\nTopics of Interest\n\nWe invite the submission of original work that is related to the topics below. The submitted articles can either be short (4 pages) position papers, or long (8 pages) research papers. We especially encourage submissions that look into the convergence of the three focus domains - HPC, BD, and AI. Topics of interest include, but are not limited to:\n\n  Resource-management and scheduling for converged infrastructure\n  Interoperability, interference mitigation, performance variability\n  Novel system architectures and programming models for converged infrastructure\n  Performance studies of converged infrastructure, performance portability and compatibility\n  Converged storage systems, malleable and reconfigurable runtimes and middleware\n  Hardware-software co-design and concertation\n  Identifying common building blocks, libraries, and functionality for HPC, BD, and AI/ML/DL\n  Convergence with the cloud, redefining elasticity and scalability for converged infrastructure\n  New classes of applications, applications at the boundary of HPC, Big Data, AI, Machine Learning, or Deep Learning, or combinations of, that fit best on converged infrastructure\n\n\n",
+    "url": "/"
+  }
+  
+]
+
