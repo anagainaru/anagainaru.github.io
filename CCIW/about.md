@@ -1,6 +1,26 @@
 ---
 layout: page
-title: About this website
+feature_text: | 
+  ### 1st Workshop on Converged Computing Infrastructure
+  June 24, 2019, Phoenix, AZ
+
+  :
+
+  :
+feature_image: "../images/3.jpg"
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+##### Workshop Organizers
+
+* Bogdan Nicolae - Argonne National Labs
+* Alexandru Uta - Vrije Universiteit Amsterdam,
+* Carlos Costa - IBM Research,
+* Ana Gainaru - Vanderbilt University
+
+##### Steering committee
+
+TBD
+
+##### Program committee
+
+TBD
