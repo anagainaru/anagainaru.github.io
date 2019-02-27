@@ -42,7 +42,6 @@ We invite the submission of original work that is related to the topics below. T
 Proceedings of this workshop will be published in CD format and will be available at the
 conference (together with the HPDC conference proceedings).
 </small>
-> Is this true?
 
 #### Important dates
 
