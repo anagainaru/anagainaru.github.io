@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://anagainaru.github.io'
+url: 'https://anagainaru.github.io/CCIW'
 baseurl: ''
 title: 'Workshop on Converged Computing Infrastructure'
 description: ''
@@ -37,13 +37,3 @@ navigation_header:
 # Footer nav
 navigation_footer:
   Back to top: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
