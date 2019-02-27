@@ -1,5 +1,4 @@
 ---
-title: CCIW'19
 layout: page
 feature_text: | 
   ### 1st Workshop on Converged Computing Infrastructure

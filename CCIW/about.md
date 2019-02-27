@@ -12,10 +12,10 @@ feature_image: "../images/3.jpg"
 
 ##### Workshop Organizers
 
-* Bogdan Nicolae - Argonne National Labs
-* Alexandru Uta - Vrije Universiteit Amsterdam,
-* Carlos Costa - IBM Research,
-* Ana Gainaru - Vanderbilt University
+* <small>Bogdan Nicolae - Argonne National Labs</small>
+* <small>Alexandru Uta - Vrije Universiteit Amsterdam</small>
+* <small>arlos Costa - IBM Research</small>
+* <small>Ana Gainaru - Vanderbilt University</small>
 
 ##### Steering committee
 
