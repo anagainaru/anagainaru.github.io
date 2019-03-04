@@ -17,6 +17,8 @@ feature_image: "../images/3.jpg"
 * <small>Carlos Costa - IBM Research</small>
 * <small>Ana Gainaru - Vanderbilt University</small>
 
+**To contact the chairs, you can email: cciw19@easychair.org**
+
 ##### Steering committee
 
 TBD
