@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Ana Gainaru"
   avatar           : "images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Assistant Professor \\ Jacobs and Featheringill Hall #382"
+  bio              : "Research Assistant Professor \ Jacobs and Featheringill Hall #382 \ Dept. of EECS, Vanderbilt University"
   location         :
   email            : "ana.gainaru@vanderbilt.edu"
   uri              :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/anagainaru"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "ana-gainaru-9b44b1a8" #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
