@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Research"
+    url: research.html
+  - title: "Publications"
+     url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: http://www.ana-gainaru.com
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
