@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Research"
-    url: http://ana-gainaru.com
-  # - title: "Publications"
-  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /research.html
+  - title: "Publications"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "About"
     url: http://www.ana-gainaru.com
   # - title: "Sample Collections"
