@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ana Gainaru"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Assistant Professor <br/> Jacobs and Featheringill Hall #382 \ Dept. of EECS, Vanderbilt University"
+  bio              : "Research Assistant Professor <br/> Jacobs and Featheringill Hall #382 <br/> Dept. of EECS, Vanderbilt University"
   location         :
   email            : "ana.gainaru@vanderbilt.edu"
   uri              :

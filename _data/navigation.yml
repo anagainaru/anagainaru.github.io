@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Research"
-    url: /_pages/research.md
+    url: /research/
   - title: "Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "About"
-    url: http://www.ana-gainaru.com
+    url: Publications
+  - title: "Service"
+    url: Service
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
