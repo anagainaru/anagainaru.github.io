@@ -3,9 +3,9 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: Publications
+    url: /publication/
   - title: "Service"
-    url: Service
+    url: /service/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
