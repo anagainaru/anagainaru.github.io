@@ -24,7 +24,7 @@ scientific applications and stochastic workflows in order to design
 at implement new computational models for engaging resources at
 massive scale in novel ways to accommodate the specific needs.
 
-<h3 id="scheduleflow"> Software </h3>
+<h3 id="scheduleflow"> Simulator </h3>
 
 <img src="../assets/images/schedule_flow.png" align="left" alt="Schedule Flow" width="250"/>
 
