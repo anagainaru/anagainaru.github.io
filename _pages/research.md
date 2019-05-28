@@ -6,7 +6,9 @@ author_profile: true
 toc: true
 ---
 
-Current projects and collaborations
+My research work is primarily in High Performance Computing at different levels of the software stack.
+It includes performance optimization, resource management, and fault tolerance techniques for
+scientific applications as well as for stochastic workflows that do not traditionally fit the HPC model.
 
 <h2 id="speculative">Speculative Scheduling</h2>
 
@@ -21,8 +23,8 @@ resource requirements and focus primarily on productivity and not performance
 
 This project focuses on the differences between typical HPC
 scientific applications and stochastic workflows in order to design
-at implement new computational models for engaging resources at
-massive scale in novel ways to accommodate the specific needs.
+and implement new computational models for engaging resources at
+large scale in novel ways to accommodate their specific needs.
 
 <h3 id="scheduleflow"> Simulator </h3>
 
@@ -31,6 +33,18 @@ massive scale in novel ways to accommodate the specific needs.
 For our experiments we built a simulator for HPC scheduelers, called [ScheduleFlow](https://github.com/anagainaru/ScheduleFlow).
 
 The ScheduleFlow software consists of a series of scripts and classes that offer an API allowing users to create simulation scenarios for any type of online and reservation-based batch schedulers. 
+
+<h3 id="speculative_software"> Software </h3>
+
+The simulator has been extended to allow speculative scheduling by 
+overwriting the amount of requested resources by an application to 
+values based on the past behavior patterns. The code is open source
+and available on [GitHub](https://github.com/vanderbiltscl/SpeculativeScheduling)
+
+You are encouraged to contribute to ScheduleFlow or SpeculativeScheduling.
+Questions and bugs can be reported through GitHub by creating a new issue 
+in the corresponding repository with the "bug" or "question" tags.
+
 
 <h2 id="io">I/O congestion</h2>
 
@@ -77,6 +91,11 @@ including preventive methods based on hardware counters and
 application memory, network and computational patterns to optimizing 
 current checkpointing strategies.
 
-<h3 id="software">Software</h3>
-HELO
+<h3 id="software">System level tools</h3>
+
+**HELO (Hierarchical Event Log Organizer)**
+
+A tool for extracting event templates from large datasets and updating them as new events get
+generated. HELO presents an intuitive output to system administrators. It is currently integrated
+in the Blue Water software stack.
 
