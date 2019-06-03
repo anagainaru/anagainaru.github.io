@@ -38,11 +38,10 @@ Scale
 - Co-chair for the FTS 2017 Workshop on Fault Tolerant Systems in conjunction with CCGRID 2017
 
 <h3 id="journal"> Journal reviewing </h3>
-
-- International Journal High Performance Computing IJHPCA since June 2014
+- Sustainable Computing, Informatics and Systems SUSCOM since June 2017
+- Parallel Computing - Systems and Applications PARCO since March 2017
+- Journal of Parallel and Distributed Computing, since January 2016
+- Future Generation Computer Systems Journal FGCS since November 2015
 - International Journal on Transactions on Parallel and Distributed Systems TPDS since
 October 2015
-- Future Generation Computer Systems Journal FGCS since November 2015
-- Journal of Parallel and Distributed Computing, since January 2016
-- Parallel Computing - Systems and Applications PARCO since March 2017
-- Sustainable Computing, Informatics and Systems SUSCOM since June 2017
+- International Journal High Performance Computing IJHPCA since June 2014
