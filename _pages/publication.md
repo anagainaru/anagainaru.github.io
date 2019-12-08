@@ -9,6 +9,10 @@ toc: true
 For a complete list of publications visit my [google scholar](https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en) or [dblp](https://dblp.org/pers/hd/g/Gainaru:Ana) pages.
 
 <h2 id="latest">Latest publications </h2>
+**Making Speculative Scheduling Robust to Incomplete Data**<br/>
+Ana Gainaru, Guillaume Pallez. 
+[SCALA@SC 2019]
+
 **Speculative Scheduling Techniques for Stochastic HPC Applications**<br/>
 Ana Gainaru, Guillaume Pallez (Aupy), Hongyang Sun, Padma Raghavan 
 [ICPP 2019] 
@@ -23,10 +27,6 @@ Ana Gainaru, Hongyang Sun, Guillaume Aupy, Yuankai Huo, Bennett A. Landman, Padm
 **Reservation Strategies for Stochastic Jobs**<br/>
 Guillaume Aupy, Ana Gainaru, Valentin Honor, Padma Raghavan, Yves Robert, Hongyang Sun 
 [IPDPS 2019] 
-
-**Scheduling Parallel Tasks under Multiple Resources: List Scheduling vs. Pack Scheduling**<br/>
-Hongyang Sun, Redouane Elghazi, Ana Gainaru, Guillaume Aupy, Padma Raghavan
-[IPDPS 2018] 
 
 <h2 id="selected">Older selected publications </h2>
 
