@@ -9,7 +9,8 @@ toc: true
 <h3 id="editorial">Editorial boards and panel reviews</h3>
 
 - NSF Panel review member, 2019
-- On the editorial board for the International Journal for High Performance Computing Applications, since 2019
+- On the editorial board for the International Journal for High Performance Computing Applications, since January 2019
+- On the editorial board for the Journal of Parallel and Distributed Computing (JPDC) as as a subject area editor (AE) since August 2019
 
 <h3 id="organizer"> Conference/workshop organization</h3>
 
@@ -17,7 +18,8 @@ toc: true
 
 <h3 id="pc"> Program committees </h3>
 
-- SC 2019 System Software ares
+- HPDC 2020, International Symposium on High Performance Distributed Computing
+- SC 2019 System Software area and BOF
 - SC 2018/2017/2016, the International Conference for High Performance Computing, Networking, Storage and Analysis, technical papers program committee for the Algorithms area
 - ICPP 2019, the International Conference on Parallel Processing
 - IPDPS 2019/2018/2014, the IEEE International Parallel and Distributed Processing
@@ -34,6 +36,7 @@ Scale
 
 <h4 id="chair"> Chairs </h4>
 
+- Vice chair for the Tutorials SC 2020 committee
 - Vice chair for the Poster SC 2018 committee
 - Co-chair for the FTS 2017 Workshop on Fault Tolerant Systems in conjunction with CCGRID 2017
 
