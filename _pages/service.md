@@ -19,12 +19,12 @@ toc: true
 <h3 id="pc"> Program committees </h3>
 
 - HPDC 2020, International Symposium on High Performance Distributed Computing
-- SC 2019 System Software area and BOF
-- SC 2018/2017/2016, the International Conference for High Performance Computing, Networking, Storage and Analysis, technical papers program committee for the Algorithms area
+- SC 2020/2019 BOF programming committee
+- SC 2019/2018/2017/2016, the International Conference for High Performance Computing, Networking, Storage and Analysis, technical papers program committee for the Software area in 2019 and Algorithms area previous years
 - ICPP 2019, the International Conference on Parallel Processing
 - IPDPS 2019/2018/2014, the IEEE International Parallel and Distributed Processing
 Symposium, technical program committee for the System software track
-- ICS 2017, External Review Committee for the ACM International Conference on Supercomputing
+- ICS 2017, External Review Committee and ICS 2020 Poster committee for the ACM International Conference on Supercomputing
 - CCGRID 2016, the 16th IEEE/ACM International Symposium on Cluster, Cloud and
 Grid Computing
 - EuroMPI 2017, 2016, the MPI users and developers conference
