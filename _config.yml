@@ -13,7 +13,7 @@ title                    : "Ana Gainaru | Vanderbilt University"
 title_separator          : "-"
 name                     : "Ana Gainaru | Vanderbilt University"
 description              : "Personal webpage"
-url                      : "https://anagainaru.github.io"
+url                      : "https://ana-gainaru.com"
 logo                     : 
 masthead_title           : "Ana Gainaru - Vanderbilt University"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana Gainaru"
-  avatar           : "/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://ana-gainaru.com/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Assistant Professor <br/> Jacobs and Featheringill Hall #382 <br/> Dept. of EECS, Vanderbilt University"
   location         :
   email            : "ana.gainaru@vanderbilt.edu"
