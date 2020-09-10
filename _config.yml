@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Ana Gainaru | Vanderbilt University"
+title                    : "Ana Gainaru | Oak Ridge National Laboratory"
 title_separator          : "-"
-name                     : "Ana Gainaru | Vanderbilt University"
+name                     : "Ana Gainaru | ORNL"
 description              : "Personal webpage"
 url                      : "https://ana-gainaru.com"
 logo                     : 
-masthead_title           : "Ana Gainaru - Vanderbilt University"
+masthead_title           : "Ana Gainaru - Oak Ridge National Laboratory"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Ana Gainaru"
   avatar           : "https://ana-gainaru.com/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Assistant Professor <br/> Jacobs and Featheringill Hall #382 <br/> Dept. of EECS, Vanderbilt University"
+  bio              : "Computer Scientist <br/>Workflow Systems group, Data and AI Systems section <br/>CSM Division"
   location         :
-  email            : "ana.gainaru@vanderbilt.edu"
+  email            : "gainarua@ornl.gov"
   uri              :
   bitbucket        :
   codepen          :
