@@ -10,6 +10,11 @@ For a complete list of publications visit my [google scholar](https://scholar.go
 
 <h2 id="latest">Latest publications </h2>
 
+**Selective Protection for Sparse Iterative Solvers to Reduce the Resilience Overhead** <br/>
+Hongyang Sun, Ana Gainaru, Manu Shantharam and Padma Raghavan.
+[IEEE 32nd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020]
+(Presentation: [video](https://www.youtube.com/embed/Mt_yx5SWqq0) )
+
 **Reservation and Checkpointing Strategies for Stochastic Jobs** <br/>
 Ana Gainaru, Brice Goglin, Valentin Honoré, Guillaume Pallez, Padma
 Raghavan, Yves Robert, Hongyang Sun.
