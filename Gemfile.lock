@@ -111,7 +111,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12)
+  bundler (~> 2.2.10)
   minimal-mistakes-jekyll!
   rake (~> 12.3)
 
