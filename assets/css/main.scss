@@ -8,8 +8,16 @@
 @import "minimal-mistakes"; // main partials
 
 
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: 0.75em;
+  }
+}
+
 html {
-  font-size: 12px;
+  font-size: 14px;
 
   @include breakpoint($medium) {
     font-size: 14px;
