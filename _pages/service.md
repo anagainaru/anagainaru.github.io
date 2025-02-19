@@ -3,7 +3,8 @@ permalink: /service/
 layout: single
 title: Service
 author_profile: true
-toc: true
+toc: false
+classes: wide
 ---
 
 <h3 id="editorial">Editorial boards and panel reviews</h3>
