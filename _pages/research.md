@@ -3,7 +3,8 @@ permalink: /research/
 layout: single
 title: Projects
 author_profile: true
-toc: true
+toc: false
+classes: wide
 ---
 
 My research work is primarily in High Performance Computing at different levels of the software stack.

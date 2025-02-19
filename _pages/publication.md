@@ -3,7 +3,8 @@ permalink: /publication/
 layout: single
 title: Publications
 author_profile: true
-toc: true
+toc: false
+classes: wide
 ---
 
 For a complete list of publications check this <a href="./assets/misc/publications.pdf" class="article">PDF</a> or visit my [google scholar](https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en) or [dblp](https://dblp.org/pers/hd/g/Gainaru:Ana) pages.
