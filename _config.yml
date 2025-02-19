@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ana Gainaru | Oak Ridge National Laboratory"
+title                    : "Ana Gainaru"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Oak Ridge National Laboratory" # site tagline that appears below site title in masthead
 name                     : "Ana Gainaru | ORNL"
 description              : "Personal webpage"
 url                      : "https://ana-gainaru.com"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Ana Gainaru - Oak Ridge National Laboratory"
+masthead_title           : "Ana Gainaru"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,51 +102,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ana Gainaru"
+  name             : #"Ana Gainaru"
   avatar           : "https://ana-gainaru.com/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Scientist <br/>Workflow Systems group, Data and AI Systems section <br/>CSM Division"
-  location         : 
-  email            : "gainarua@ornl.gov"
+  bio              : "Computer Scientist <br/>Workflow Systems Group <br/>Data and AI Systems Section <br/>CSM Division"
+  location         : "Knoxville, TN"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:gainarua@ornl.gov"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anagainaru"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "ORNL Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ornl.gov/staff-profile/ana-gainaru"
+    - label: "Scholar"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "./assets/misc/resume.pdf"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
 
 
