@@ -29,6 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : "Ana Gainaru"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+talkmap_link             : true
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -172,6 +173,22 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# These settings control the types of collections used by the template
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# These settings control how pages and collections are included in the site
+defaults:
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Conversion
 markdown: kramdown
