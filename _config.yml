@@ -107,6 +107,8 @@ author:
   avatar           : "https://ana-gainaru.com/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist <br/>Workflow Systems Group <br/>Data and AI Systems Section <br/>CSM Division"
   location         : "Knoxville, TN"
+  googlescholar    : "https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0002-1375-9468"
   email            : 
   links:
     - label: "Email"
@@ -118,9 +120,6 @@ author:
     - label: "ORNL Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.ornl.gov/staff-profile/ana-gainaru"
-    - label: "Scholar"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
       url: "./assets/misc/resume.pdf"
@@ -130,7 +129,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/anagainaru"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
