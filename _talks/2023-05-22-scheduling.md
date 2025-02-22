@@ -1,6 +1,6 @@
 ---
 permalink: /talks/2023-05-22-scheduling
-layout: archive
+layout: talk
 title: "Scheduling the I/O of AI applications with a focus on medical imaging"
 author_profile: true
 toc: false
