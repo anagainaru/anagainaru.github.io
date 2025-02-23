@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+classes: wide
+---
+
+{% if site.talkmap_link == true %}
+
+<p class="archive__item-excerpt"> See a <a href="/talkmap.html">map of all the places</a> I've given a talk </p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
