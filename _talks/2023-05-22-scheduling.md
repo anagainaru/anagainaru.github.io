@@ -13,7 +13,7 @@ location: "Knoxville, Tennessee"
 tags:
   - AI workflows
   - Scheduling
-  - Medical applications
+  - Cancer research
 ---
 
 My talk focuses on ways to build and automate AI workflows by separating the
@@ -57,3 +57,8 @@ Link to the event: <a href="https://icl.utk.edu/workshops/scheduling23/">https:/
 <br/>
 Access my <a href="http://icl.utk.edu/workshops/scheduling23/slides/sched23/Gainaru-2023_scheduling_gainaru.pdf">slides here</a>
 </p>
+
+<strong>Related paper:</strong>
+Profiles of upcoming HPC Applications and their Impact on Reservation Strategies<br/>
+A Gainaru, B Goglin, V Honoré, G Pallez<br/>
+IEEE Transactions on Parallel and Distributed Systems 32 (5), 1178-1190

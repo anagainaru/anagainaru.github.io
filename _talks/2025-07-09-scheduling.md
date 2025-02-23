@@ -8,7 +8,7 @@ classes: wide
 collection: talks
 type: "Invited Talk"
 venue: "18th Scheduling for large-scale systems workshop"
-date: 2025-07-09
+date: 2025-02-09
 location: "Montréal, Québec, Canada"
 ---
 

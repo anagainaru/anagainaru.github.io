@@ -10,7 +10,7 @@ type: "Invited Talk"
 venue: "17th Scheduling for large-scale systems workshop"
 date: 2024-06-26
 location: "Aussois, France"
-tags: ['Querying', 'Scheduling']
+tags: ['Queries', 'Scheduling']
 ---
 
 My presentation focuses on efficient strategies for querying large datasets, specifically addressing quantities of interest and derived data.  Although not directly about scheduling, these strategies create analysis tasks and data transformation needs that can strain study resources, especially at scale.
@@ -26,3 +26,6 @@ simulations.
 <br/><br/>
 Link to the event: <a href="https://graal.ens-lyon.fr/~abenoit/aussois24">https://graal.ens-lyon.fr/~abenoit/aussois24</a>
 </p>
+<strong>Related paper:</strong> To Derive or Not to Derive: I/O Libraries Take Charge of Derived Quantities Computation <br/>
+A. Gainaru, N. Podhorszki, L. Dulac, Q. Gong, S. Klasky, G. Eisenhauer, A. Kougkas, X. Sun, J. Lofstead <br/>
+2024 IEEE 36th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 105-115, 2024
