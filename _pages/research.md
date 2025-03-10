@@ -5,6 +5,7 @@ title: Projects
 author_profile: true
 toc: false
 classes: wide
+date: Feb 2025
 ---
 
 My research work is primarily in High Performance Computing at different levels of the software stack.

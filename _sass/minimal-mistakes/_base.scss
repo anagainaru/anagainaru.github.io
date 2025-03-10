@@ -326,6 +326,16 @@ nav {
   }
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 80%;
+}
+
+.column {
+  height: 100px;
+}
+
 /*
    Global animation transition
    ========================================================================== */
