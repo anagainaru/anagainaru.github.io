@@ -1,5 +1,25 @@
 var addressPoints = [
   [
+    "Paris, France",
+    48.8534951,
+    2.3483915
+  ],
+  [
+    "Albuquerque, New Mexico",
+    35.0841034,
+    -106.650985
+  ],
+  [
+    "Denver, Colorado",
+    39.7392364,
+    -104.984862
+  ],
+  [
+    "Oxford, UK",
+    51.7520131,
+    -1.2578499
+  ],
+  [
     "Aussois, France",
     45.2275415,
     6.7413988
@@ -38,5 +58,10 @@ var addressPoints = [
     "New Orleans, Louisiana",
     29.9759983,
     -90.0782127
+  ],
+  [
+    "Wadern, Germany",
+    49.5410205,
+    6.8889313
   ]
 ];

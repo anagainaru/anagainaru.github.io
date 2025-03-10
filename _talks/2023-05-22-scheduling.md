@@ -11,7 +11,6 @@ venue: "16th Scheduling for large-scale systems workshop"
 date: 2023-05-22
 location: "Knoxville, Tennessee"
 tags:
-  - AI workflows
   - Scheduling
   - Cancer research
 ---
@@ -58,7 +57,8 @@ Link to the event: <a href="https://icl.utk.edu/workshops/scheduling23/">https:/
 Access my <a href="http://icl.utk.edu/workshops/scheduling23/slides/sched23/Gainaru-2023_scheduling_gainaru.pdf">slides here</a>
 </p>
 
-<strong>Related paper:</strong>
+<strong>Related paper:</strong><br/>
 Profiles of upcoming HPC Applications and their Impact on Reservation Strategies<br/>
 A Gainaru, B Goglin, V Honoré, G Pallez<br/>
-IEEE Transactions on Parallel and Distributed Systems 32 (5), 1178-1190
+IEEE Transactions on Parallel and Distributed Systems 32 (5), 1178-1190 <br/>
+DOI: <a href="https://ieeexplore.ieee.org/document/9266751">10.1109/TPDS.2020.3039728<a/>
