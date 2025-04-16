@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+classes: wide
+---
+
+<br/>
+<div class="container">
+
+  <div class="column">
+      <a href="/talkmap.html"><img src="../assets/images/globe.png" align="left" alt="" width="100"/></a>
+<p class="archive__item-excerpt"> See a <a href="/talkmap.html">map of all the places</a> I've given a talk (based on the list below)</p>
+  </div>
+
+{% if site.talkmap_link == true %}
+
+  <div class="column">
+      <a href="/tags/"><img src="../assets/images/topics.png" align="left" alt="" width="100"/></a>
+<p class="archive__item-excerpt"> Check the list of <a href="/tags/">talks per topic </a> </p>
+  </div>
+
+{% endif %}
+</div>
+
+<br/>
+<p class="archive__item-excerpt"> Complete list of talks since 2023: </p>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+

@@ -216,6 +216,13 @@
         </li>
       {% endif %}
 
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+       {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="fab fa-fw fa-orcid"></i> ORCID</a></li>
+      {% endif %}
+
       {% if author.flickr %}
         <li>
           <a href="https://www.flickr.com/{{ author.flickr }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
