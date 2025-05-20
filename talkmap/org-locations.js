@@ -51,8 +51,13 @@ var addressPoints = [
   ],
   [
     "Hilo, Hawaii",
-    19.685445799999997,
-    -155.10037544637729
+    19.7073734,
+    -155.08158
+  ],
+  [
+    "Chicago, Illinois",
+    41.8755616,
+    -87.6244212
   ],
   [
     "New Orleans, Louisiana",
