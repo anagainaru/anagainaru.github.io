@@ -8,55 +8,104 @@ classes: wide
 date: Feb 2025
 ---
 
-For a complete list of publications check this <a href="./assets/misc/publications.pdf" class="article">PDF</a> or visit my [google scholar](https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en) or [dblp](https://dblp.org/pers/hd/g/Gainaru:Ana) pages.
+For a complete list of publications visit my [google scholar](https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en) or [dblp](https://dblp.org/pers/hd/g/Gainaru:Ana) pages.
 
-<h2 id="latest">Latest publications </h2>
+<h2 id="latest">Selected publications </h2>
 
-**Selective Protection for Sparse Iterative Solvers to Reduce the Resilience Overhead** <br/>
-Hongyang Sun, Ana Gainaru, Manu Shantharam and Padma Raghavan.
-[IEEE 32nd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020]
-(Presentation: [video](https://www.youtube.com/embed/Mt_yx5SWqq0) )
+<h3> Data management </h3>
+
+**Hpc i/o innovations in the exascale era** <br/>
+Greg Eisenhauer, Norbert Podhorszki, Ana Gainaru, et al. <br/>
+[The International Journal of High Performance Computing Applications, 2025] <br/>
+DOI: https://doi.org/10.1177/10943420251330446
+
+**To Derive or Not to Derive: I/O Libraries Take Charge of Derived Quantities Computation** <br/>
+A. Gainaru, N. Podhorszki, L. Dulac, Q. Gong, S. Klasky, G. Eisenhauer, A. Kougkas, X. Sun, J. Lofstead <br/>
+[IEEE 36th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2024] <br/>
+DOI: <a href="10.1109/SBAC-PAD63648.2024.00030"> 10.1109/SBAC-PAD63648.2024.00030 </a>
+
+**RAPIDS: Reconciling Availability, Accuracy, and Performance in Managing Geo-Distributed Scientific Data** <br/>
+Lipeng Wan, Jieyang Chen, Xin Liang, Ana Gainaru, et al. <br/>
+[HPDC: Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing, 2023] <br/>
+DOI: https://doi.org/10.1145/3588195.3592983
+
+**Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers** <br/>
+Eric Suchyta, Jong Youl Choi, Seung-Hoe Ku, David Pugmire, Ana Gainaru, et al. <br/>
+[IEEE International Conference on Cluster Computing (CLUSTER), 2022] <br/>
+DOI: https://doi.org/10.1109/CLUSTER51413.2022.00035
+
+**Understanding the Impact of Data Staging for Coupled Scientific Workflows** <br/>
+Ana Gainaru, Lipeng Wan, Ruonan Wang, Eric Suchyta, Jieyang Chen, Norbert Podhorszki, et al. <br/>
+[IEEE Transactions on Parallel and Distributed Systems, 2022] <br/>
+DOI: https://doi.org/10.1109/TPDS.2022.3179989
+
+<h3> Workflow management </h3>
+
+**AI-coupled HPC Workflow Applications, Middleware and Performance** <br/>
+Wes Brewer, Ana Gainaru, Frédéric Suter, Feiyi Wang, Murali Emani, Shantenu Jha <br/>
+[In submission to ACM Computing Surveys Journal (CSUR)]  <br/>
+Paper: https://arxiv.org/pdf/2406.14315
+
+**Hades: A Context-Aware Active Storage Framework for Accelerating Large-Scale Data Analysis** <br/>
+Jaime Cernuda, Luke Logan, Ana Gainaru, et al. <br/>
+[IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2024] <br/>
+DOI: https://doi.org/10.1109/CCGrid59990.2024.00070
+
+**Adaptive Generation of Training Data for ML Reduced Model Creation** <br/>
+Mark Cianciosa, Richard Archibald, Wael Elwasif, Ana Gainaru, Jin Myung Park, Ross Whitfield <br/>
+[IEEE International Conference on Big Data (Big Data), 2022] <br/>
+DOI: https://doi.org/10.1109/BigData55660.2022.10020884
+
+**2022 review of data-driven plasma science** <br/>
+Rushil Anirudh, Rick Archibald, M Salman Asif, Markus M Becker, Sadruddin Benkadda, Peer-Timo Bremer, Rick HS Budé, Choong-Seock Chang, Lei Chen, RM Churchill, Jonathan Citrin, Jim A Gaffney, Ana Gainaru, et al. <br/>
+[IEEE Transactions on Plasma Science, 2023] <br/>
+DOI: https://doi.org/10.1109/TPS.2023.3268170
+
+**Driving Next-Generation Workflows from the Data Plane** <br/>
+Frédéric Suter, Rafael Ferreira Da Silva, Ana Gainaru, Scott Klasky <br/>
+[IEEE 19th International Conference on e-Science (e-Science), 2023] <br/>
+DOI: https://doi.org/10.1109/e-Science58273.2023.10254849
+
+<h3> Scheduling and modeling </h3>
+
+**Priority-BF: a Task Manager for Priority-Based Scheduling** <br/>
+Ana Gainaru, Scott Klasky, Guillaume Pallez <br/>
+[EURO-PAR 2025-31st International European Conference on Parallel and Distributed Computing, 2025]
+
+**A Performance Model of In-Situ Techniques** <br/>
+Yi Ju, Nicolas Vidal, Adalberto Perez, Ana Gainaru, et al. <br/>
+[33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP), 2025] <br/>
+DOI: https://doi.org/10.1109/PDP66500.2025.00036
+
+**Profiles of upcoming HPC Applications and their Impact on Reservation Strategies** <br/>
+Ana Gainaru, Brice Goglin, Valentin Honoré, Guillaume Pallez <br/>
+[IEEE Transactions on Parallel and Distributed Systems, 2020] <br/>
+Paper: <a href="https://people.bordeaux.inria.fr/gaupy/ressources/pub/journals/stochastic_model.pdf"> stochastic_model.pdf </a>
 
 **Reservation and Checkpointing Strategies for Stochastic Jobs** <br/>
 Ana Gainaru, Brice Goglin, Valentin Honoré, Guillaume Pallez, Padma
-Raghavan, Yves Robert, Hongyang Sun.
-[IPDPS 2020] (Paper: [INRIA technical report](https://hal.inria.fr/hal-02328013/document) )
+Raghavan, Yves Robert, Hongyang Sun <br/>
+[IPDPS 2020]  <br/>
+Paper: [INRIA technical report](https://hal.inria.fr/hal-02328013/document)
 
-**Making Speculative Scheduling Robust to Incomplete Data**<br/>
-Ana Gainaru, Guillaume Pallez. 
-[SCALA@SC 2019] (Paper: [INRIA technical report](https://hal.inria.fr/hal-02158598/document))<br/>
-Code used for this paper [here](https://github.com/anagainaru/ReproducibilityInitiative/tree/master/2019_scala)
 
-**Speculative Scheduling Techniques for Stochastic HPC Applications**<br/>
-Ana Gainaru, Guillaume Pallez (Aupy), Hongyang Sun, Padma Raghavan 
-[ICPP 2019] 
+<h3> Performance and resiliency in HPC </h3>
 
-**I/O scheduling strategy for periodic applications** <br/>
-Guillaume Aupy, Ana Gainaru, Valentin Le Fevrez [ACM Transactions on Parallel Computing 2019] 
+**Design and performance considerations for GPU-aware parallel I/O** <br/>
+Ana Gainaru, Norbert Podhorszki, Greg Eisenhauer, Vicente Bolea, Scott Klasky <br/>
+[In submission to Cluster 2025]
 
-**On-the-fly scheduling vs. reservation-based scheduling for unpredictable workflows**<br/>
-Ana Gainaru, Hongyang Sun, Guillaume Aupy, Yuankai Huo, Bennett A. Landman, Padma Raghavan
-[Special Issue of the IJHPCA 2019] 
+**Improving I/O Performance for Exascale Applications through Online Data Layout Reorganization** <br/>
+Lipeng Wan, Axel Huebl, Junmin Gu, Franz Poeschel, Ana Gainaru, et al. <br/>
+[IEEE Transactions on Parallel and Distributed Systems, 2021] <br/>
+DOI: https://doi.org/10.1109/TPDS.2021.3100784
 
-**Reservation Strategies for Stochastic Jobs**<br/>
-Guillaume Aupy, Ana Gainaru, Valentin Honor, Padma Raghavan, Yves Robert, Hongyang Sun 
-[IPDPS 2019] 
+**Selective Protection for Sparse Iterative Solvers to Reduce the Resilience Overhead** <br/>
+Hongyang Sun, Ana Gainaru, Manu Shantharam and Padma Raghavan  <br/>
+[IEEE 32nd International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2020] <br/>
+(Presentation: [video](https://www.youtube.com/embed/Mt_yx5SWqq0) )
 
-<h2 id="selected">Older selected publications </h2>
+**Using hardware gather-scatter capabilities to optimize MPI all-to-all** <br/>
+R Graham, A Gainaru <br/>
+[US Patent 10,528,518]
 
-**Using InfiniBand Hardware Gather-Scatter Capabilities to Optimize MPI All-to-All**<br/>
-Richard Graham, Ana Gainaru, Artem Polyaiov and Gilad Shainer [EuroMPI 2016] 
-
-**Reducing Waste in Large Scale Systems through Introspective Analysis**<br/>
-Leonardo Bautista Gomez, Ana Gainaru, Swann Perarnau, Franck Cappello, Marc Snir, William Kramer
-[IPDPS 2016]
-
-**Scheduling the I/O of HPC applications under congestion**<br/>
-Ana Gainaru, Guillaume Aupy, Anne Benoit, Franck Cappello, Yves Robert, Marc Snir
-[IPDPS 2015]
-
-**Fault prediction under the microscope: A closer look into HPC systems**<br/>
-Ana Gainaru , Franck Cappello, Marc Snir, William Kramer [SC 2012] 
-
-**Modeling and Tolerating Heterogeneous Failures in Large Parallel Systems**<br/>
-Eric Heien, Derrick Kondo, Ana Gainaru , Dan LaPine, Bill Kramer, Franck Cappello [SC 2011] 
