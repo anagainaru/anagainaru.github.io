@@ -10,39 +10,34 @@ date: Feb 2025
 
 <h3 id="editorial">Editorial boards and panel reviews</h3>
 
-- NSF Panel review member, 2019
+- I have been a review member of several NSF and DOE Panels since 2019
 - On the editorial board for the International Journal for High Performance Computing Applications, since January 2019
-- On the editorial board for the Journal of Parallel and Distributed Computing (JPDC) as as a subject area editor (AE) since August 2019
+- On the editorial board for the Journal of Parallel and Distributed Computing (JPDC) as as a subject area editor (AE) from 2019 to 2021
 
 <h3 id="organizer"> Conference/workshop organization</h3>
 
-- Convergence Computing Infrastructure Workshop (CCIW) in conjunction with HPDC 2019
+- 4 editions of The International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8) in conjunction with SC from 2022 to 2025
+- First edition of the Worshop on Workflow Monitoring, Observability, and in situ Analytics (WOWMON) in conjunction with ICPP 2024
+- 2 editions of the Convergence Computing Infrastructure Workshop (CCIW) in conjunction with HPDC 2019 and 2020
 
-<h3 id="pc"> Program committees </h3>
+<h4 id="chair"> Chairing </h4>
 
-- HPDC 2020, International Symposium on High Performance Distributed Computing
-- SC 2020/2019 BOF programming committee
-- SC 2019/2018/2017/2016, the International Conference for High Performance Computing, Networking, Storage and Analysis, technical papers program committee for the Software area in 2019 and Algorithms area previous years
-- ICPP 2019, the International Conference on Parallel Processing
-- IPDPS 2019/2018/2014, the IEEE International Parallel and Distributed Processing
-Symposium, technical program committee for the System software track
-- ICS 2017, External Review Committee and ICS 2020 Poster committee for the ACM International Conference on Supercomputing
-- CCGRID 2016, the 16th IEEE/ACM International Symposium on Cluster, Cloud and
-Grid Computing
-- EuroMPI 2017, 2016, the MPI users and developers conference
-- FTXS 2015, 2014, 2013, 2012 The Workshop on Fault Tolerance for HPC at Extreme
-Scale
-- FTS 2016, 2015 The Workshop on Fault Tolerant Systems
-- HPCe 2011 High Performance Computing with application in environment @ SYNASC
-2011
+- The Performance track of ICPP 2025
+- Track 2: Software Systems and Platforms of CCGrid 2024
+- HPC Asia 2023
+- Best ACM SRC Posters at SC 2023
+- Doctoral showcase at SC 2022
+- Vice chair for the Tutorials at SC 2020 
+- Vice chair for the Poster at SC 2018 
+- FTS 2017 Workshop on Fault Tolerant Systems in conjunction with CCGRID 2017
 
-<h4 id="chair"> Chairs </h4>
 
-- Vice chair for the Tutorials SC 2020 committee
-- Vice chair for the Poster SC 2018 committee
-- Co-chair for the FTS 2017 Workshop on Fault Tolerant Systems in conjunction with CCGRID 2017
+<h3 id="pc"> Program committees and reviewing </h3>
 
-<h3 id="journal"> Journal reviewing </h3>
+I have been on the program committee for over 35 conferences and workshops in the past 10+ years in areas related to HPC and algorithms. Conferences include HPDC, SC paper tracks/BOF/Poster, IPDPS, Cluster, ICPP, ICS, CCGRID, EuroMPI, ISC. 
+Workshops include the workshop on Near Real-time Data Processing for Interconnected Scientific Instruments (NRDPISI), the workshop on Workshop on Extreme-Scale Storage and Analysis (ESSA), Fault Tolerant Systems (FTS) and the workshop on High Performance Computing with applications in environment (HPCe).
+
+I have been reviewing for 6 international journals in HPC: 
 - Sustainable Computing, Informatics and Systems SUSCOM since June 2017
 - Parallel Computing - Systems and Applications PARCO since March 2017
 - Journal of Parallel and Distributed Computing, since January 2016
