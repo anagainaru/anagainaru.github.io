@@ -1,5 +1,5 @@
 ---
-permalink: /talks/2025-07-08-scheduling
+permalink: /talks/2025-07-09-scheduling
 layout: talk
 title: "On demand scheduling for large-scale workflows with analysis requirements"
 author_profile: true
@@ -8,7 +8,7 @@ classes: wide
 collection: talks
 type: "Invited Talk"
 venue: "18th Scheduling for large-scale systems workshop"
-date: 2025-07-08
+date: 2025-07-09
 location: "Montréal, Québec, Canada"
 ---
 
