@@ -20,7 +20,7 @@ for users to define. Our solution relies on a qualitative description of priorit
 the Conservative Backfilling algorithms.
 
 Link to the event: https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal/ <br/>
-Link to my talk: [comming soon]
+Link to my talk: https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal/slides/ana.pdf
 
 **This talk is based on the paper:** <br/>
 Priority-BF: a Task Manager for Priority-Based Scheduling <br/>
