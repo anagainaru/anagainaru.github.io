@@ -19,10 +19,11 @@ re-think how we handle job scheduling strategies. My talk addresses the challeng
 for users to define. Our solution relies on a qualitative description of priorities and pulls from two key approaches: the Easy-BF algorithm and
 the Conservative Backfilling algorithms.
 
-Link to the event: https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal/ <br/>
-Link to my talk: https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal/slides/ana.pdf
+Link to the event: [18th Scheduling for large-scale systems workshop Website](https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal)
+<br/>
+Link to my talk: [PDF](https://perso.ens-lyon.fr/loris.marchal/scheduling-in-montreal/slides/ana.pdf)
 
 **This talk is based on the paper:** <br/>
 Priority-BF: a Task Manager for Priority-Based Scheduling <br/>
 Ana Gainaru, Scott Klasky, Guillaume Pallez <br/>
-[EURO-PAR 2025-31st International European Conference on Parallel and Distributed Computing, 2025]
+EURO-PAR 2025-31st International European Conference on Parallel and Distributed Computing, 2025
