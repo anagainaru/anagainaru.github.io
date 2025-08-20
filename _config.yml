@@ -122,7 +122,7 @@ author:
       url: "https://www.ornl.gov/staff-profile/ana-gainaru"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: "./assets/misc/resume.pdf"
+      url: "https://ana-gainaru.com/assets/misc/resume.pdf"
 
 # Site Footer
 footer:
