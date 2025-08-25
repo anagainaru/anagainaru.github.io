@@ -68,5 +68,10 @@ var addressPoints = [
     "Wadern, Germany",
     49.5410205,
     6.8889313
+  ],
+  [
+    "Dresden, Germany",
+    51.05089,
+    13.73832
   ]
 ];
