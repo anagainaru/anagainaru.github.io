@@ -5,7 +5,7 @@ title: Publications
 author_profile: true
 toc: false
 classes: wide
-date: Feb 2025
+date: Aug 2025
 ---
 
 For a complete list of publications visit my [google scholar](https://scholar.google.com/citations?user=YR3x8gkAAAAJ&hl=en) or [dblp](https://dblp.org/pers/hd/g/Gainaru:Ana) pages.
