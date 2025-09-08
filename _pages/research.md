@@ -5,8 +5,34 @@ title: Projects
 author_profile: true
 toc: false
 classes: wide
-date: Feb 2025
+date: Sep 2025
 ---
+
+AI workflows
+I/O management
+Scheduling
+Performance optimization
+working with applicatoin developers
+
+<h2 id="speculative">I/O management</h2>
+
+Query and data streaming optimizations 
+Developer for ADIOS (main lead for the GPU backend and derived variables)
+Leading the Data thrust in RAPIDS-3, application impact
+
+<h2 id="speculative">Workflow optimization</h2>
+
+Optimization loop for training
+Orchestration for self evolving models
+Performance models
+
+<h2 id="speculative">Scheduling</h2>
+
+Speculative scheduling
+In-situ task scheduling
+I/O scheduling
+ScheduleFlow
+
 
 My research work is primarily in High Performance Computing at different levels of the software stack.
 It includes performance optimization, resource management, and fault tolerance techniques for
