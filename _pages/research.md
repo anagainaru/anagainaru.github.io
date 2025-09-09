@@ -17,7 +17,15 @@ working with applicatoin developers
 <h2 id="speculative">I/O management</h2>
 
 Query and data streaming optimizations 
+Identification and retrieval of relevant datasets and quantities of interest (QoI) in scientific
+computing: I am working with fusion applications to store simulation data into organized
+campaigns, capturing metadata about inputs and QoIs. This enables efficient querying of relevant
+datasets and subsets of data for building digital twins. My work in this area is detailed in [1] and
+[2], where we describe the QoI and query frameworks now being adapted for use in campaigns.
+The GPU backend allws to bring data in the format and the location needed by the analysis.
 Developer for ADIOS (main lead for the GPU backend and derived variables)
+I am currently leading the development of derived capabilities and the GPU backend for the ADIOS2
+library.
 Leading the Data thrust in RAPIDS-3, application impact
 
 <h2 id="speculative">Workflow optimization</h2>
@@ -25,6 +33,10 @@ Leading the Data thrust in RAPIDS-3, application impact
 Optimization loop for training
 Orchestration for self evolving models
 Performance models
+Optimization of cross-component data flows across AI workflows: I have collaborated with
+domain scientists developing digital twins in fusion science (detailed in [3] and [4]) and medical
+field (detailed in [5]) to enhance their AI workflows. This involves optimizing and streaming data in
+near-real time between simulation, preprocessing, data curation routines, and AI model training.
 
 <h2 id="speculative">Scheduling</h2>
 
