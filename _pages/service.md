@@ -16,9 +16,10 @@ date: Aug 2025
 
 <h3 id="organizer"> Conference/workshop organization</h3>
 
-- 4 editions of The International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8) in conjunction with SC from 2022 to 2025
-- First edition of the Worshop on Workflow Monitoring, Observability, and in situ Analytics (WOWMON) in conjunction with ICPP 2024
-- 2 editions of the Convergence Computing Infrastructure Workshop (CCIW) in conjunction with HPDC 2019 and 2020
+- 4 editions of The International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-8) in conjunction with SC from 2022 to 2025, [https://drbsd.github.io](https://drbsd.github.io)
+- First edition of the Worshop on Workflow Monitoring, Observability, and in situ Analytics (WOWMON) in conjunction with ICPP 2024, [https://wowmon-workshop.github.io](https://wowmon-workshop.github.io)
+- The second edition of the Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization at ICML 2024, [https://want-ai-hpc.github.io/icml2024/about](https://want-ai-hpc.github.io/icml2024)
+- 2 editions of the Convergence Computing Infrastructure Workshop (CCIW) in conjunction with HPDC 2019 and 2020, [https://cciw.github.io](https://cciw.github.io)
 
 <h4 id="chair"> Chairing </h4>
 
