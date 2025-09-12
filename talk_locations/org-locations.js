@@ -3,12 +3,12 @@ var addressPoints = [
     "Paris, France",
     48.8534951,
     2.3483915
-  ]
+  ],
   [
     "Santa Fe, New Mexico",
     35.6876096,
     -105.938456
-  ]
+  ],
   [
     "Chicago, Illinois",
     41.8755616,
@@ -133,7 +133,7 @@ var addressPoints = [
     "Tokyo, Japan",
     35.6768601,
     139.7638947
-  ]
+  ],
   [
     "San Jose, California",
     37.3361663,
