@@ -5,29 +5,9 @@ var addressPoints = [
     2.3483915
   ],
   [
-    "Santa Fe, New Mexico",
-    35.6876096,
-    -105.938456
-  ],
-  [
-    "Chicago, Illinois",
-    41.8755616,
-    -87.6244212
-  ],
-  [
-    "Urbana-Champaign, Illinois",
-    40.1131564,
-    -88.2247919
-  ],
-  [
     "Albuquerque, New Mexico",
     35.0841034,
     -106.650985
-  ],
-  [
-    "Salt Lake City, Utah",
-    40.7596198,
-    -111.886797
   ],
   [
     "Denver, Colorado",
@@ -35,14 +15,34 @@ var addressPoints = [
     -104.984862
   ],
   [
+    "Oxford, UK",
+    51.7520131,
+    -1.2578499
+  ],
+  [
+    "Aussois, France",
+    45.2275415,
+    6.7413988
+  ],
+  [
+    "Harwell, UK",
+    51.5999743,
+    -1.2909164
+  ],
+  [
     "Knoxville, Tennessee",
     35.9603948,
     -83.9210261
   ],
   [
-    "Nashville, Tennessee",
-    36.1622767,
-    -86.7742984
+    "Montr\u00e9al, Qu\u00e9bec, Canada",
+    45.5031824,
+    -73.5698065
+  ],
+  [
+    "Osaka, Japan",
+    34.6937569,
+    135.5014539
   ],
   [
     "Fort Worth, Texas",
@@ -50,9 +50,49 @@ var addressPoints = [
     -97.3327459
   ],
   [
+    "Hilo, Hawaii",
+    19.6854458,
+    -155.1003754
+  ],
+  [
+    "Chicago, Illinois",
+    41.8755616,
+    -87.6244212
+  ],
+  [
     "New Orleans, Louisiana",
     29.9559145,
     -90.0730259
+  ],
+  [
+    "Wadern, Germany",
+    49.5410205,
+    6.8889313
+  ],
+  [
+    "Dresden, Germany",
+    51.0493286,
+    13.7381437
+  ],
+  [
+    "Santa Fe, New Mexico",
+    35.6876096,
+    -105.938456
+  ],
+  [
+    "Urbana-Champaign, Illinois",
+    40.1131564,
+    -88.2247919
+  ],
+  [
+    "Salt Lake City, Utah",
+    40.7596198,
+    -111.886797
+  ],
+  [
+    "Nashville, Tennessee",
+    36.1622767,
+    -86.7742984
   ],
   [
     "Seattle, Washington",
@@ -70,16 +110,6 @@ var addressPoints = [
     -77.0365427
   ],
   [
-    "Hilo, Hawaii",
-    19.6854458,
-    -155.1003754
-  ],
-  [
-    "Montreal, Quebec, Canada",
-    45.5031824,
-    -73.5698065
-  ],
-  [
     "Bucharest, Romania",
     44.4361414,
     26.1027202
@@ -88,11 +118,6 @@ var addressPoints = [
     "Cluj-Napoca, Romania",
     46.769379,
     23.5899542
-  ],
-  [
-    "Aussois, France",
-    45.2275415,
-    6.7413988
   ],
   [
     "Sophia Antipolis, France",
@@ -105,29 +130,9 @@ var addressPoints = [
     -9.4204495
   ],
   [
-    "Harwell, UK",
-    51.5999743,
-    -1.2909164
-  ],
-  [
-    "Wadern, Germany",
-    49.5410205,
-    6.8889313
-  ],
-  [
-    "Dresden, Germany",
-    51.0493286,
-    13.7381437
-  ],
-  [
     "Yokneam, Israel",
     32.6480601,
     35.0943545
-  ],
-  [
-    "Osaka, Japan",
-    34.6937569,
-    135.5014539
   ],
   [
     "Tokyo, Japan",
@@ -148,11 +153,6 @@ var addressPoints = [
     "Lyon, France",
     45.7578137,
     4.8320114
-  ],
-  [
-    "Oxford, UK",
-    51.7520131,
-    -1.2578499
   ],
   [
     "Shanghai, China",
