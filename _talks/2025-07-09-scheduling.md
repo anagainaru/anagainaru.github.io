@@ -10,6 +10,8 @@ type: "Invited Talk"
 venue: "18th Scheduling for large-scale systems workshop"
 date: 2025-07-09
 location: "Montréal, Québec, Canada"
+tags:
+  - Scheduling
 ---
 
 My talk for the 18th scheduling workshop workshop focuses on efficiently executing the analysis codes attached to large-scale simulations. These tasks require the data generated at every simulation step in order to extract knowledge (quantities or regions of interest), post-process data for training, to reduce or refactor parts of the data or simply visualize and audit the data. 
