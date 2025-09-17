@@ -12,7 +12,7 @@ date: 2023-05-22
 location: "Knoxville, Tennessee"
 tags:
   - Scheduling
-  - Cancer research
+  - HPC Applications
 ---
 
 My talk focuses on ways to build and automate AI workflows by separating the
