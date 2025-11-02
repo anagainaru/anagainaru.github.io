@@ -35,7 +35,7 @@ The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framewor
 
 <h3> ModCon: Self-improving AI Models </h3>
 
-<img src="../assets/images/research-modcon.png" align="left" alt="Schedule Flow" width="250"/>
+<img src="../assets/images/research-modcon.jpg" align="left" alt="ModCon" width="250"/>
 
 The American Science Cloud (AmSC) for building infrastructure and the the Transformational AI Models Consortium (ModCon) for organizing data and model building are DOE initiatives focused on accelerating scientific discovery by enhancing how domain scientists utilize Artificial Intelligence (AI) and building partnerships that align DOE’s scientific enterprise with leading commercial 
 advances. As the leader of the Self-Improving AI Models thrust within ModCon, my work addresses the challenge of keeping domain-specific AI models current and scientifically relevant.
@@ -49,89 +49,36 @@ advances. As the leader of the Self-Improving AI Models thrust within ModCon, my
 
 As scientific applications scale, managing the associated vast, interconnected datasets in near-real-time and for post-mortem analysis becomes critical. Campaign management provides the necessary framework to logically organize these datasets into campaigns, tracking the complex provenance and relationships between all generated data. This includes linking simulation inputs, raw outputs, performance metrics, analysis results, and derivative products (like images or refined data).
 
-<img src="../assets/images/research-campaigns.png" alt="Campaign management" width="850"/>
+<img src="../assets/images/research-campaigns.jpg" alt="Campaign management" width="850"/>
 
 My work focuses on developing efficient querying mechanisms over these campaigns to seamlessly bring relevant data into any part of a scientific workflow.
 * **Reproducibility**: Quickly identifying and fetching all the necessary input and output data to precisely reproduce a previous simulation or experiment.
 * **AI/ML Training Workflows**: Enabling intelligent, self-improving AI models to use campaign history. For instance, the training code can query the campaign database to determine if a required simulation has already been executed. If so, it can fetch the pre-existing data in the correct format, avoiding redundant computation and significantly accelerating model accuracy improvements through data steering and reuse.
 
 
-<sub> Provenance tracking, logical organization of scientific datasets, and efficient data query across workflows. </sub>
+<sub> Focus: Provenance tracking, logical organization of scientific datasets, and efficient data query across workflows. </sub>
+
+
+<h3> Scheduling (Tasks Associated with Experiments or Large Simulations, Speculative Scheduling) </h3>
+
+The standard approach to HPC scheduling relies on reservation-based batch scheduling using priority queues and backfilling. While effective for traditional scientific applications, this model often leads to suboptimal performance for emerging classes of applications, particularly stochastic AI workflows and those in domains like neuroscience and bioinformatics, which prioritize productivity and exhibit unpredictable resource requirements.
+
+* Accommodating Unpredictable Resource Needs: The developed scheduling strategies move beyond static resource reservations to efficiently handle workflows with highly variable demands over time in terms of accuracy, time and resource utilization.
+* Prioritized and Accuracy-Driven Tasks: I address the need for tasks associated with domain science workflows to be executed with different priorities and accuracies at every step. For example, a task might involve ingesting accurate or refactored data based on its specific deadline or the current requirements of the main simulation, necessitating a flexible and speculative scheduling approach.
+* Productivity over Performance: The goal is to design systems that maximize scientific productivity for these application domains, ensuring their complex, multi-stage tasks can reliably access and utilize resources at large scale.
+
+<sub> Focus: Designing and implementing novel computational models for large-scale resource management to accommodate stochastic and priority-focused tasks. </sub>
 
 
 
+<h2 id="software"> Software (available on my GitHub) </h2>
 
+My research contributions are underpinned by active development in several open-source software projects and custom frameworks designed to manage, optimize, and automate large-scale scientific workflows on leadership-class computing facilities.
 
-<h3 id="scheduleflow"> Simulator </h3>
+<img src="../assets/images/research-software.jpg" align="right" alt="Software" width="250"/>
 
-<img src="../assets/images/schedule_flow.png" align="left" alt="Schedule Flow" width="250"/>
-
-For our experiments we built a simulator for HPC scheduelers, called [ScheduleFlow](https://github.com/anagainaru/ScheduleFlow).
-
-The ScheduleFlow software consists of a series of scripts and classes that offer an API allowing users to create simulation scenarios for any type of online and reservation-based batch schedulers. 
-
-<h3 id="speculative_software"> Software </h3>
-
-The simulator has been extended to allow speculative scheduling by 
-overwriting the amount of requested resources by an application to 
-values based on the past behavior patterns. The code is open source
-and available on [GitHub](https://github.com/vanderbiltscl/SpeculativeScheduling)
-
-You are encouraged to contribute to ScheduleFlow or SpeculativeScheduling.
-Questions and bugs can be reported through GitHub by creating a new issue 
-in the corresponding repository with the "bug" or "question" tags.
-
-
-<h2 id="io">I/O congestion</h2>
-
-Many scientific HPC applications generate or deal with 
-TeraBytes of data during their lifetime (for example, 
-the Large Hadron Collider generates
-15PB/year, light source projects deal with 300TB of data
-per day and climate modeling are expected to have to
-deal with more than 100EB of data). 
-Moreover, I/O throughput and memory access time has an order of 
-magnitude slower increase rate than FLOPs for the new 
-generation of supercomputers. 
-
-To help with the ever growing amount of data created,
-architectural improvement such as burst buffers
-have been added to the system. In addition, work is being done
-to transform the data before sending it to the disks
-in the hope of reducing the I/O sent. However, observations show 
-that I/O transfer can still be slowed down up to 70% due to congestion
-on current HPC systems.
-
-This project investigates different optimization solutions 
-to be included in the I/O middleware in order to alleviate 
-the impact of congestion on applications.
-
-<h2 id="resiliency">Fault tolerance</h2>
-
-HPC sysytems today contain more than 100,000 processing and memory units.
-With an individual MTBF (Mean Time Between Failures) for one unit of, one century,
-an HPC system will encounter a failure every 9 hours in average, 
-which is smaller than the execution time of many HPC applications.
-In addition to fail-stop failures, silent errors are not detected immediately,
-but instead after some arbitrary detection latency can cause applications 
-to degrade their performance, crash or reach a false result. 
-
-This project investigates performance variability issues and
-resiliency properties of scientific applications and HPC systems.
-We are working on understanding the intrinsic applcication resiliency to
-silent errors and how to leverage it to optimze the amount of resources
-required by a successful run (for example, by decreasing the precision of 
-computations and reducing the energy and memory footpring of an application)
-The project also includes designing new fault tolerance methods by 
-including preventive methods based on hardware counters and
-application memory, network and computational patterns to optimizing 
-current checkpointing strategies.
-
-<h3 id="software">System level tools</h3>
-
-**HELO (Hierarchical Event Log Organizer)**
-
-A tool for extracting event templates from large datasets and updating them as new events get
-generated. HELO presents an intuitive output to system administrators. It is currently integrated
-in the Blue Water software stack.
-
+* I am a core developer of the **ADIOS high-performance I/O framework**. My contributions focus on adapting the library for modern, heterogeneous computing architectures and for supporting in-situ derived variables computation and data querying.
+* The **hpc_campaign framework** provides the necessary software infrastructure to organize and track complex provenance of data generated by scientific workflows.
+* The **AI Framework for Self-Improvement** (ModCon Agentic Harness) is the implementation of the Self-Improving AI Models thrust within the ModCon project. It is designed to automate the full life cycle of domain-specific AI models.
+* **ScheduleFlow** is a lightweight, user-friendly tool developed to simplify the process of creating and simulating large-scale scientific scheduling scenarios. It consists of a series of Python scripts and classes that offer a simple API and it allows researchers to quickly create various simulation scenarios, without the overhead of learning and configuring complex, full-featured simulators like SimGrid or BatSim (e.g., bypassing unnecessary details like memory and network configurations).
+  
