@@ -8,63 +8,29 @@ classes: wide
 date: Sep 2025
 ---
 
-AI workflows
-I/O management
-Scheduling
-Performance optimization
-working with applicatoin developers
+My research focuses on accelerating domain science applications in the Exascale era by developing advanced, performance-portable solutions for High-Performance Computing (HPC), Artificial Intelligence (AI), and large-scale data management.
 
-<h2 id="speculative">I/O management</h2>
+<h2 id="data">Data Management</h2>
 
-Query and data streaming optimizations 
-Identification and retrieval of relevant datasets and quantities of interest (QoI) in scientific
-computing: I am working with fusion applications to store simulation data into organized
-campaigns, capturing metadata about inputs and QoIs. This enables efficient querying of relevant
-datasets and subsets of data for building digital twins. My work in this area is detailed in [1] and
-[2], where we describe the QoI and query frameworks now being adapted for use in campaigns.
-The GPU backend allws to bring data in the format and the location needed by the analysis.
-Developer for ADIOS (main lead for the GPU backend and derived variables)
-I am currently leading the development of derived capabilities and the GPU backend for the ADIOS2
-library.
-Leading the Data thrust in RAPIDS-3, application impact
+<h3 id="rapids"> RAPIDS: Optimizing Application Workflows and I/O </h3>
 
-<h2 id="speculative">Workflow optimization</h2>
+The RAPIDS SciDAC Institute aims to enhance the usability and performance of data and visualization solutions for scientific applications running on leadership-class supercomputers. As the co-lead of the Data Understanding thrust within RAPIDS, I engage with various SciDAC partnerships identifying technical data challenges and co-developing potential solutions tailored to the unique needs of cutting-edge scientific simulations. This involves optimizing the entire data lifecycle, from simulation output to analysis and visualization, ensuring applications can efficiently leverage exascale resources.
 
-Optimization loop for training
-Orchestration for self evolving models
-Performance models
-Optimization of cross-component data flows across AI workflows: I have collaborated with
-domain scientists developing digital twins in fusion science (detailed in [3] and [4]) and medical
-field (detailed in [5]) to enhance their AI workflows. This involves optimizing and streaming data in
-near-real time between simulation, preprocessing, data curation routines, and AI model training.
-
-<h2 id="speculative">Scheduling</h2>
-
-Speculative scheduling
-In-situ task scheduling
-I/O scheduling
-ScheduleFlow
+<sub>Focus: Collaborative optimization of application workflows, I/O strategies, and visualization solutions for SciDAC Partnerships.</sub>
 
 
-My research work is primarily in High Performance Computing at different levels of the software stack.
-It includes performance optimization, resource management, and fault tolerance techniques for
-scientific applications as well as for stochastic workflows that do not traditionally fit the HPC model.
+<h3 id="rapids"> ADIOS: GPU-backend, Derived Variables Computation, and Remote Access</h3>
 
-<h2 id="speculative">Speculative Scheduling</h2>
+The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framework used by large-scale scientific applications to achieve efficient data management and movement at exascale. My work as an ADIOS developer has centered on extending the library's capabilities to handle modern, heterogeneous computing environments and support intelligent data processing.
 
-Reservation-based batch scheduling using priority
-queues and backfilling algorithms is the current de facto
-solution in implementing HPC schedulers. These systems
-are designed for traditional scientific applications and can
-have suboptimal performance for new emerging classes of applications.
-These applications develop modeling and simulation workflows with unpredictable
-resource requirements and focus primarily on productivity and not performance
-(like neuroscience and bioinformatics).
+<img src="../assets/images/research-adios.png" align="right" alt="ADIOS optimizations" width="650"/>
 
-This project focuses on the differences between typical HPC
-scientific applications and stochastic workflows in order to design
-and implement new computational models for engaging resources at
-large scale in novel ways to accommodate their specific needs.
+* GPU-Enabled I/O: Core features have been added to enable ADIOS to interface with applications running on GPUs allowing for efficient metadata computation directly on the device.
+* In-situ Data Processing and Querying: The query engine allows the library to compute complex quantities of interest (derived variables) in real-time. This processing supports intelligent data querying and remote access, ensuring that only the relevant portions of the massive datasets are transferred, thereby reducing I/O bandwidth usage and post-processing latency.
+
+<sub>Focus: GPU I/O Optimization, In-situ Derived Variable Computation, and Query Engine Development</sub>
+
+
 
 <h3 id="scheduleflow"> Simulator </h3>
 
