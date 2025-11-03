@@ -14,14 +14,14 @@ My research focuses on accelerating domain science applications in the Exascale 
 
 <h3 id="rapids"> RAPIDS: Optimizing Application Workflows and I/O </h3>
 
-<sub>Collaborative optimization of application workflows, I/O strategies, and visualization solutions for SciDAC Partnerships.</sub>
+<sub><i>Focus: Collaborative optimization of application workflows, I/O strategies, and visualization solutions for SciDAC Partnerships</i></sub>
 
 The RAPIDS SciDAC Institute aims to enhance the usability and performance of data and visualization solutions for scientific applications running on leadership-class supercomputers. As the **co-lead of the Data Understanding thrust** within RAPIDS, I engage with various SciDAC partnerships identifying technical data challenges and co-developing potential solutions tailored to the unique needs of cutting-edge scientific simulations. This involves optimizing the entire data lifecycle, from simulation output to analysis and visualization, ensuring applications can efficiently leverage exascale resources.
 
 
 <h3 id="rapids"> ADIOS: GPU-backend, Derived Variables Computation, and Remote Access</h3>
 
-<sub>GPU I/O Optimization, In-situ Derived Variable Computation, and Query Engine Development</sub>
+<sub><i>Focus: GPU I/O Optimization, In-situ Derived Variable Computation, and Query Engine Development</i></sub>
 
 The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framework used by large-scale scientific applications to achieve efficient data management and movement at exascale. My work as an ADIOS developer has centered on extending the library's capabilities to handle modern, heterogeneous computing environments and support intelligent data processing.
 
@@ -35,7 +35,7 @@ The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framewor
 
 <h3> ModCon: Self-improving AI Models </h3>
 
-<sub>Establish a "data flywheel" — a continuous improvement loop for scientific AI models to maintain predictive accuracy and utility.</sub>
+<sub><i>Focus: Establish a "data flywheel" — a continuous improvement loop for scientific AI models to maintain predictive accuracy and utility</i></sub>
 
 <img src="../assets/images/research-modcon.jpg" align="left" alt="ModCon" width="250"/>
 
@@ -46,7 +46,7 @@ advances. As the **group leader for the Self-Improving AI Models thrust** within
 
 <h3>Managing the complete lifecycle of data within workflows</h3>
 
-<sub>Provenance tracking, logical organization of scientific datasets, and efficient data query across workflows. </sub>
+<sub><i>Focus: Provenance tracking, logical organization of scientific datasets, and efficient data query across workflows</i></sub>
 
 As scientific applications scale, managing the associated vast, interconnected datasets in near-real-time and for post-mortem analysis becomes critical. Campaign management provides the necessary framework to logically organize these datasets into campaigns, tracking the complex provenance and relationships between all generated data. This includes linking simulation inputs, raw outputs, performance metrics, analysis results, and derivative products (like images or refined data).
 
@@ -58,7 +58,8 @@ My work focuses on developing efficient querying mechanisms over these campaigns
 
 
 <h3> Scheduling (Tasks Associated with Experiments or Large Simulations, Speculative Scheduling) </h3>
-<sub>Designing and implementing novel computational models for large-scale resource management to accommodate stochastic and priority-focused tasks. </sub>
+
+<sub><i>Focus: Designing and implementing novel computational models for large-scale resource management to accommodate stochastic and priority-focused tasks </i></sub>
 
 The standard approach to HPC scheduling relies on reservation-based batch scheduling using priority queues and backfilling. While effective for traditional scientific applications, this model often leads to suboptimal performance for emerging classes of applications, particularly stochastic AI workflows and those in domains like neuroscience and bioinformatics, which prioritize productivity and exhibit unpredictable resource requirements.
 
