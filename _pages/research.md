@@ -13,12 +13,14 @@ My research focuses on accelerating domain science applications in the Exascale 
 <h2 id="data">Data Management</h2>
 
 <h3 id="rapids"> RAPIDS: Optimizing Application Workflows and I/O </h3>
+
 <sub>Collaborative optimization of application workflows, I/O strategies, and visualization solutions for SciDAC Partnerships.</sub>
 
 The RAPIDS SciDAC Institute aims to enhance the usability and performance of data and visualization solutions for scientific applications running on leadership-class supercomputers. As the **co-lead of the Data Understanding thrust** within RAPIDS, I engage with various SciDAC partnerships identifying technical data challenges and co-developing potential solutions tailored to the unique needs of cutting-edge scientific simulations. This involves optimizing the entire data lifecycle, from simulation output to analysis and visualization, ensuring applications can efficiently leverage exascale resources.
 
 
 <h3 id="rapids"> ADIOS: GPU-backend, Derived Variables Computation, and Remote Access</h3>
+
 <sub>GPU I/O Optimization, In-situ Derived Variable Computation, and Query Engine Development</sub>
 
 The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framework used by large-scale scientific applications to achieve efficient data management and movement at exascale. My work as an ADIOS developer has centered on extending the library's capabilities to handle modern, heterogeneous computing environments and support intelligent data processing.
@@ -32,17 +34,18 @@ The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framewor
 <h2 id="hpc-ai">HPC/AI Workflow Management</h2>
 
 <h3> ModCon: Self-improving AI Models </h3>
+
 <sub>Establish a "data flywheel" — a continuous improvement loop for scientific AI models to maintain predictive accuracy and utility.</sub>
 
 <img src="../assets/images/research-modcon.jpg" align="left" alt="ModCon" width="250"/>
 
 The American Science Cloud (AmSC) for building infrastructure and the the Transformational AI Models Consortium (ModCon) for organizing data and model building are DOE initiatives focused on accelerating scientific discovery by enhancing how domain scientists utilize Artificial Intelligence (AI) and building partnerships that align DOE’s scientific enterprise with leading commercial 
-advances. As the leader of the Self-Improving AI Models thrust within ModCon, my work addresses the challenge of keeping domain-specific AI models current and scientifically relevant.
-
-* Addressing Model Staleness: Domain-specific AI models (in materials science, biology, physics, etc.) can rapidly become stale as new experimental data, advanced simulations, and emerging methods are introduced. My group focuses on solving this fundamental limitation.
-* The Agentic Harness: The core of this thrust is the development of an agentic harness — an AI-driven orchestration layer that automates the complete model life cycle. This intelligent layer enables models to self-improve continuously by: (i) Monitoring incoming data streams and current model performance; (ii) Deciding when and how to update the model; (iii) Orchestrating the entire process of retraining, validation, and deployment.
+advances. As the **group leader for the Self-Improving AI Models thrust** within ModCon, my work addresses the challenge of keeping domain-specific AI models current and scientifically relevant. Specifically:
+* **Addressing Model Staleness**: Domain-specific AI models (in materials science, biology, physics, etc.) can rapidly become stale as new experimental data, advanced simulations, and emerging methods are introduced. My group focuses on solving this fundamental limitation.
+* **Agentic Harness**: The core of this thrust is the development of an agentic framework — an AI-driven orchestration layer that automates the complete model life cycle. This intelligent layer enables models to self-improve continuously by: (i) Monitoring incoming data streams and current model performance; (ii) Deciding when and how to update the model; (iii) Orchestrating the entire process of retraining, validation, and re-deployment.
 
 <h3>Managing the complete lifecycle of data within workflows</h3>
+
 <sub>Provenance tracking, logical organization of scientific datasets, and efficient data query across workflows. </sub>
 
 As scientific applications scale, managing the associated vast, interconnected datasets in near-real-time and for post-mortem analysis becomes critical. Campaign management provides the necessary framework to logically organize these datasets into campaigns, tracking the complex provenance and relationships between all generated data. This includes linking simulation inputs, raw outputs, performance metrics, analysis results, and derivative products (like images or refined data).
