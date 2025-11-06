@@ -37,10 +37,11 @@ The Adaptable I/O System (ADIOS) is a high-performance, open-source I/O framewor
 
 <sub><i>Focus: Establish a "data flywheel" — a continuous improvement loop for scientific AI models to maintain predictive accuracy and utility</i></sub>
 
-<img src="../assets/images/research-modcon.jpg" align="left" alt="ModCon" width="200"/>
-
 The American Science Cloud (AmSC) for building infrastructure and the the Transformational AI Models Consortium (ModCon) for organizing data and model building are DOE initiatives focused on accelerating scientific discovery by enhancing how domain scientists utilize Artificial Intelligence (AI) and building partnerships that align DOE’s scientific enterprise with leading commercial 
 advances. As the **group leader for the Self-Improving AI Models thrust** within ModCon, my work addresses the challenge of keeping domain-specific AI models current and scientifically relevant. Specifically:
+
+<img src="../assets/images/research-modcon.jpg" align="left" alt="ModCon" width="200"/>
+
 * **Addressing Model Staleness**: Domain-specific AI models (in materials science, biology, physics, etc.) can rapidly become stale as new experimental data, advanced simulations, and emerging methods are introduced. My group focuses on solving this fundamental limitation.
 * **Agentic Harness**: The core of this thrust is the development of an agentic framework — an AI-driven orchestration layer that automates the complete model life cycle. This intelligent layer enables models to self-improve continuously by: (i) Monitoring incoming data streams and current model performance; (ii) Deciding when and how to update the model; (iii) Orchestrating the entire process of retraining, validation, and re-deployment.
 
@@ -71,9 +72,9 @@ The standard approach to HPC scheduling relies on reservation-based batch schedu
 
 <h2 id="software"> Software </h2>
 
-My research contributions are underpinned by active development in several open-source software projects and custom frameworks designed to manage, optimize, and automate large-scale scientific workflows on leadership-class computing facilities.
+<img src="../assets/images/research-software.jpg" align="left" alt="Software" width="200"/>
 
-<img src="../assets/images/research-software.jpg" align="right" alt="Software" width="200"/>
+My research contributions are underpinned by active development in several open-source software projects and custom frameworks designed to manage, optimize, and automate large-scale scientific workflows on leadership-class computing facilities.
 
 * I am a core developer of the **ADIOS high-performance I/O framework**. My contributions focus on adapting the library for modern, heterogeneous computing architectures and for supporting in-situ derived variables computation and data querying.
    * Link: https://github.com/ornladios/ADIOS2
