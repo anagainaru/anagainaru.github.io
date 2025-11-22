@@ -145,6 +145,11 @@ var addressPoints = [
     -121.890591
   ],
   [
+    "Long Beach, California",
+    33.7690164,
+    -118.191604
+  ],
+  [
     "Bordeaux, France",
     44.841225,
     -0.5800364
