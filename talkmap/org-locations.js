@@ -35,6 +35,11 @@ var addressPoints = [
     -83.9210261
   ],
   [
+    "Long Beach, California",
+    33.7690164,
+    -118.191604
+  ],
+  [
     "Montr\u00e9al, Qu\u00e9bec, Canada",
     45.5031824,
     -73.5698065
