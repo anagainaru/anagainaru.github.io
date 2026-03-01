@@ -15,10 +15,13 @@ tags:
   - AI workflows 
 ---
 
-Join me at Multicore 2026 where I give an invited talk on unified framework designed to bridge the gap between HPC simulations and AI training,
+Join me at Multicore 2026 where I give an talk on what is needed to design a unified framework that bridges the gap between HPC simulations and AI training,
 transforming fragmented data management into intelligent, reusable workflows.
 
-<br/><br/>
+<br/>
+<img src="../assets/images/multicore.jpg" alt="Multicore 2026" width="800"/>
+
+<br/>
 
 <strong>Abstract:</strong> The next generation of HPC application is represented by hybrid approaches that weave together traditional simulations and modern AI.
 However, a critical bottleneck in integrating HPC with AI is the “lack of awareness” between workflow components. 
