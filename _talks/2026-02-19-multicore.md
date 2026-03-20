@@ -1,7 +1,7 @@
 ---
 permalink: /talks/2026-02-19-multicore
 layout: talk
-title: "Data management strategies for large scale workflows coupling simulations to AI"
+title: "Data management strategies for workflows coupling simulations to AI"
 author_profile: true
 toc: false
 classes: wide
@@ -37,7 +37,7 @@ workflows that “learn” from previous executions. Attendees will learn how to
 facilitate cross-domain optimization transfer, and ensure that the massive datasets required for AI training remain accessible, 
 structured, and reusable.
 
-<br/><br/>
+<br/>
 Link to my talk: [Talk page](https://multicore.world/speakers-2026/ana-gainaru/)
 
 
