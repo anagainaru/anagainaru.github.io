@@ -168,5 +168,10 @@ var addressPoints = [
     "Christchurch, New Zealand",
     -43.530955,
     172.6364343
+  ],
+  [
+    "Frejus, France",
+    43.4330308,
+    6.7360182
   ]
 ];
