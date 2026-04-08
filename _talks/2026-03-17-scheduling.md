@@ -12,8 +12,8 @@ date: 2026-03-17
 location: "Frejus, France"
 tags:
   - Scheduling
-  - Reasoning models
-  - Nuclear sciences
+  - AI workflows
+  - HPC Applications
 ---
 
 This talk presents a scheduling solution for a reasoning-based discovery loop where LLM agents monitor live simulation and sensor data to detect model drift, anomalies or points of interest. Upon detection, the agent dynamically requests burst resources to trigger analysis tasks or continual learning—e.g. updating surrogate models on-the-fly to refine plasma stability predictions, trigger correction checks or visualization.
