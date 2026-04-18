@@ -77,9 +77,14 @@ The standard approach to HPC scheduling relies on reservation-based batch schedu
 My research contributions are underpinned by active development in several open-source software projects and custom frameworks designed to manage, optimize, and automate large-scale scientific workflows on leadership-class computing facilities.
 
 * I am a core developer of the **ADIOS high-performance I/O framework**. My contributions focus on adapting the library for modern, heterogeneous computing architectures and for supporting in-situ derived variables computation and data querying.
-   * Link: https://github.com/ornladios/ADIOS2
+
+<p align="right">Link: <a href="https://github.com/ornladios/ADIOS2">https://github.com/ornladios/ADIOS2</a></p>
+
 * The **APEIRON AI Framework for Self-Improvement** is the implementation of the Self-Improving AI Models thrust within the ModCon project. It is designed to automate the full life cycle of domain-specific AI models.
-     * Link: https://github.com/AI-ModCon/BaseSIM_APEIRON
+
+<p align="right">Link: <a href="https://github.com/AI-ModCon/BaseSIM_APEIRON">https://github.com/AI-ModCon/BaseSIM_APEIRON</a></p>
+
 * **ScheduleFlow** is a lightweight, user-friendly tool developed to simplify the process of creating and simulating large-scale scientific scheduling scenarios. It consists of a series of Python scripts and classes that offer a simple API and it allows researchers to quickly create various simulation scenarios, without the overhead of learning and configuring complex, full-featured simulators like SimGrid or BatSim (e.g., bypassing unnecessary details like memory and network configurations).
-   * Link: https://github.com/anagainaru/ScheduleFlow
+
+<p align="right">Link: <a href="https://github.com/anagainaru/ScheduleFlow">https://github.com/anagainaru/ScheduleFlow</a></p>
   
