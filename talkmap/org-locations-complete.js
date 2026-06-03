@@ -173,5 +173,10 @@ var addressPoints = [
     "Frejus, France",
     43.4330308,
     6.7360182
+  ],
+  [
+    "Baltimore, Maryland",
+    39.2908816,
+    -76.610759
   ]
 ];
