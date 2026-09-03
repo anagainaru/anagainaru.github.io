@@ -38,7 +38,13 @@ facilitate cross-domain optimization transfer, and ensure that the massive datas
 structured, and reusable.
 
 <br/>
-Link to my talk: [Talk page](https://multicore.world/speakers-2026/ana-gainaru/)
+Multicore page of my talk: [Multicore talk page](https://multicore.world/speakers-2026/ana-gainaru/)
+<br/>
+Slides: [Slides](https://multicore.world/wp-content/uploads/2026/02/mw26-gainaru.pdf)
+<br/>
+YouTube video of my talk:<br/>
+<a href=""><img src="../assets/images/multicore-youtube.png" alt="Multicore 2026" width="400"/></a>
+
 
 
 
