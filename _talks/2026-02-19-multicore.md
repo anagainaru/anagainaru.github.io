@@ -43,7 +43,7 @@ Multicore page of my talk: [Multicore talk page](https://multicore.world/speaker
 Slides: [Slides](https://multicore.world/wp-content/uploads/2026/02/mw26-gainaru.pdf)
 <br/>
 YouTube video of my talk:<br/>
-<a href=""><img src="../assets/images/multicore-youtube.jpg" alt="Multicore 2026" width="800"/></a>
+<a href=""><img src="../assets/images/multicore-youtube.png" alt="Multicore 2026" width="400"/></a>
 
 
 
