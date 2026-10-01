@@ -178,5 +178,10 @@ var addressPoints = [
     "Baltimore, Maryland",
     39.2908816,
     -76.610759
+  ],
+  [
+    "Naples, Italy",
+    40.8518,
+    14.2681
   ]
 ];
