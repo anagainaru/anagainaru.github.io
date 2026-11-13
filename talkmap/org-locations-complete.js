@@ -183,5 +183,10 @@ var addressPoints = [
     "Naples, Italy",
     40.8518,
     14.2681
+  ],
+  [
+    "College Station, Texas",
+    30.6280,
+    -96.3344
   ]
 ];
